@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class Stairs
+public class CountingStairs
 {
 public static int Count(int a)
 {
